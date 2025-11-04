@@ -1,2 +1,2 @@
 # stock_bot
-Testing different stock trading algorithms and methods
+Using a stock trading bot to learn machine learning
